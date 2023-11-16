@@ -19,4 +19,4 @@ Feature: User Login
 
         Examples:
             | USERNAME | PASSWORD |
-            | Ippi    | admin123 |
+            | WrongUser    | admin123 |
